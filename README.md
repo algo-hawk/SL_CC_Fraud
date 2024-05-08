@@ -33,8 +33,8 @@ We explore common fraud techniques such as Identity Theft, Account Takeover, and
 **How to Use:**
 1. Clone the repository.
 2. Install required dependencies: `pip install -r requirements.txt`
-3. Run the main script to train the model and predict: `python main.py
-   `
+3. Run the main script to train the model and predict: `python main.py`
+
 **Acknowledgments:**
 A special thanks to everyone who supported this project and contributed to its success.
 
